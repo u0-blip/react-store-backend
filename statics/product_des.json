@@ -1,0 +1,100 @@
+[
+  {
+    "Name": "Pride and Prejudice",
+    "Descriptioin": "Pride and Prejudice is a romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about ... Wikipedia",
+    "Originally published": "28 January 1813",
+    "Author": "Jane Austen",
+    "Set in": "Hertfordshire and Derbyshire, c. 1812",
+    "Working title": "First Impressions",
+    "Characters": "Elizabeth Bennet, Mr. Fitzwilliam Darcy, MORE",
+    "Genres": "Romance novel, Comics, Drama, Satire, Textbook, MORE"
+  },
+
+  {
+    "Name": "1984",
+    "Descriptioin": " A Novel, often published as 1984, is a dystopian novel by English novelist George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Wikipedia",
+    "Originally published": " 8 June 1949",
+    "Author": " George Orwell",
+    "Set in": " London, Airstrip One, Oceania",
+    "Page count": " 328",
+    "Characters": " Winston Smith, Big Brother, Emmanuel Goldstein, Julia, O'Brien, Syme",
+    "Genres": " Science Fiction, Dystopian Fiction, Social science fiction, Political fiction"
+  },
+
+  {
+    "Name": "Jane Eyre",
+    "Descriptioin": "Jane Eyre is a novel by English writer Charlotte Brontë, published under the pen Descriptioin \\\"Currer Bell\\\", on 16 October 1847, by Smith, Elder & Co. of London. The first American edition was published the following year by Harper & Brothers of New York. Wikipedia",
+    "Originally published": " 16 October 1847",
+    "Author": " Charlotte Brontë",
+    "Set in": " Northern England, early 19th century",
+    "Text": " Jane Eyre at Wikisource",
+    "Genres": " Novel, Gothic fiction, Romance novel, Bildungsroman, Victorian literature, Social criticism, Fictional Autobiography",
+    "Characters": " Edward Rochester, Jane Eyre, Bertha Mason, MORE"
+  },
+
+  {
+    "Name": "The Catcher in the Rye",
+    "Descriptioin": "The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It was originally intended for adults, but is often read by adolescents for its themes of angst and alienation, and as a critique on superficiality in society. It has been translated widely. Wikipedia",
+    "Originally published": " 16 July 1951",
+    "Author": " J. D. Salinger",
+    "Pages": " 234 (may vary)",
+    "Page count": " 277",
+    "Characters": " Holden Caulfield, Stradlater, Phoebe Caulfield, MORE",
+    "Genres": " Novel, Bildungsroman, Young adult fiction, Coming-of-age story, First-person narrative"
+  },
+
+  {
+    "Name": "Little Women",
+    "Descriptioin": "Little Women is a novel by American author Louisa May Alcott which was originally published in two volumes in 1868 and 1869. Alcott wrote the book over several months at the request of her publisher. Wikipedia",
+    "Originally published": " 1868",
+    "Author": " Louisa May Alcott",
+    "Followed by": " Good Wives",
+    "Characters": " Jo March, Beth March, Amy March, Meg March, Marmee March",
+    "Genres": " Novel, Children's literature, Bildungsroman, Comedy, Coming-of-age story, Adventure fiction, Domestic Fiction",
+    "Adaptations": " Little Women (1994), Little Women (2019), MORE"
+  },
+
+  {
+    "Name": "The Great Gatsby",
+    "Descriptioin": "The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922. Many literary critics consider The Great Gatsby to be one of the greatest novels ever written. Wikipedia",
+    "Originally published": " 10 April 1925",
+    "Author": " F. Scott Fitzgerald",
+    "Pages": " 218 (Original US Edition)",
+    "Page count": " 218 (Original US Edition)",
+    "Characters": " Jay Gatsby, Nick Carraway, Daisy Buchanan, MORE",
+    "Genres": " Novel, Fiction, Tragedy"
+  },
+
+  {
+    "Name": "Wuthering Heights",
+    "Descriptioin": "Wuthering Heights is a novel by Emily Brontë published in 1847 under her pseudonym \\\"Ellis Bell\\\". It is her only finished novel. Wuthering Heights and Anne Brontë's Agnes Grey were accepted by publisher Thomas Newby before the success of her sister Charlotte's novel Jane Eyre. Wikipedia",
+    "Originally published": " December 1847",
+    "Author": " Emily Brontë",
+    "Characters": " Heathcliff, Catherine Earnshaw, Hareton Earnshaw, MORE",
+    "Genres": " Novel, Gothic fiction, Romance novel, Tragedy",
+    "Narrators": " Mr. Lockwood, Nelly Dean",
+    "Adaptations": " Wuthering Heights (2011), MORE"
+  },
+
+  {
+    "Name": "Moby-Dick",
+    "Descriptioin": "Moby-Dick; or, The Whale is an 1851 novel by American writer Herman Melville. The book is the sailor Ishmael's narrative of the obsessive quest of Ahab, captain of the whaling ship Pequod, for revenge on Moby Dick, the giant white sperm whale that on the ship's previous voyage bit off Ahab's leg at the knee. Wikipedia",
+    "Originally published": " 18 October 1851",
+    "Author": " Herman Melville",
+    "Publisher": " Richard Bentley",
+    "Characters": " Captain Ahab, Ishmael, Queequeg, Moby Dick, Father Mapple, Starbuck, Stubb, Yosemite Sam, Captain Boomer, Elijah",
+    "Adaptations": " Moby Dick (1956), Moby Dick (2010), MORE",
+    "Genres": " Novel, Epic, Adventure fiction, Nautical fiction"
+  },
+
+  {
+    "Name": "Lord of the Flies",
+    "Descriptioin": "Lord of the Flies is a 1954 novel by Nobel Prize-winning British author William Golding. The book focuses on a group of British boys stranded on an uninhabited island and their disastrous attempt to govern themselves. Wikipedia",
+    "Originally published": " 17 September 1954",
+    "Author": " William Golding",
+    "Page count": " 224",
+    "Publisher": " Faber and Faber",
+    "Characters": " Piggy, Jack, Ralph, Simon, Sam, Roger, Eric",
+    "Genres": " Novel, Allegory, Young adult fiction, Psychological Fiction"
+  }
+]
